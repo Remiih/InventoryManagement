@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj": {}
+    "e:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj": {
+    "e:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj",
+        "projectUniqueName": "e:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj",
         "projectName": "InventoryManagement",
-        "projectPath": "E:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj",
+        "projectPath": "e:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj",
         "packagesPath": "C:\\Users\\jjjer\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\C#\\InventoryManagement\\obj\\",
+        "outputPath": "e:\\Coding\\C#\\InventoryManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
