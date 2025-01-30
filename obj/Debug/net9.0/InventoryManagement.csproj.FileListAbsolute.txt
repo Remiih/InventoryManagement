@@ -13,3 +13,6 @@ e:\Coding\C#\InventoryManagement\obj\Debug\net9.0\refint\InventoryManagement.dll
 e:\Coding\C#\InventoryManagement\obj\Debug\net9.0\InventoryManagement.pdb
 e:\Coding\C#\InventoryManagement\obj\Debug\net9.0\InventoryManagement.genruntimeconfig.cache
 e:\Coding\C#\InventoryManagement\obj\Debug\net9.0\ref\InventoryManagement.dll
+E:\Coding\C#\InventoryManagement\bin\Debug\net9.0\Pastel.dll
+E:\Coding\C#\InventoryManagement\obj\Debug\net9.0\InventoryManagement.csproj.AssemblyReference.cache
+E:\Coding\C#\InventoryManagement\obj\Debug\net9.0\Inventor.F96114ED.Up2Date

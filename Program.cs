@@ -1,4 +1,7 @@
-﻿namespace InventoryManagement;
+﻿using System.Drawing;
+using Pastel;
+
+namespace InventoryManagement;
 
 class Program
 {
@@ -8,8 +11,8 @@ class Program
         int choice = 0;
         do 
         {
-            Console.WriteLine("\n\nInventory Management System");
-            Console.Write("1. Add Product\n2. Sell Product\n3. Restock Product\n4. Display Products\n5. Update Product Price\n6. Delete Product\n7. Exit\n\nInput: ");
+            Console.WriteLine($"\n\n{"Inventory Management System".Pastel(Color.LightGreen)}");
+            Console.Write($"{"1. Add Product\n2. Sell Product\n3. Restock Product\n4. Display Products\n5. Update Product Price\n6. Delete Product\n7. Exit".Pastel(Color.White)}\n\nInput: ");
             choice = GetValidInt();
             switch (choice)
             {

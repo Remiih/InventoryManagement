@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/9qhvseAkkI=",
+  "dgSpecHash": "F8I+8XG415k=",
   "success": true,
-  "projectFilePath": "e:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Coding\\C#\\InventoryManagement\\InventoryManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jjjer\\.nuget\\packages\\pastel\\6.0.1\\pastel.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
